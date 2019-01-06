@@ -1,2 +1,2 @@
 # Python
-Python Learnings
+Learnings of Python
